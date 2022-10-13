@@ -9,4 +9,6 @@ This project was built with  HTML CSS and JavaScript.
 
 Live Demo:
 
-![cosmetic](https://user-images.githubusercontent.com/36425720/195713822-36d4cec5-ffdb-4587-b25b-8f9f0c580767.PNG)
+
+![cosmetic](https://user-images.githubusercontent.com/36425720/195714177-5b8e2d41-0e7c-461a-9b4b-40eba6022525.PNG)
+
