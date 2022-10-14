@@ -466,7 +466,8 @@
 @media (max-width: 768px){
   .text-round-block svg.text-round,.text-round-block i{
     margin-top: -30rem;
-    margin-right: -60rem;
+    margin-left: auto;
+    margin-right: auto;
   }
   .hero-grid img.arrow-video {
     display: none;
